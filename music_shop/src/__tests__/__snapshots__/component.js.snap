@@ -1,0 +1,53 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`component testing test Like component 1`] = `
+<div>
+  <button
+    className="btn btn-warning"
+    onClick={[Function]}
+  >
+    Like 56575
+  </button>
+  <button
+    className="btn btn-warning"
+    onClick={[Function]}
+  >
+    Unlike
+  </button>
+  0
+</div>
+`;
+
+exports[`component testing test component having link 1`] = `
+<div
+  className="header"
+>
+  Music Shop
+  <div>
+    <a
+      href="/"
+      onClick={[Function]}
+    >
+      Home
+    </a>
+     | 
+     
+    <a
+      href="/music"
+      onClick={[Function]}
+    >
+      Music
+    </a>
+      | 
+     
+    <a
+      href="/about"
+      onClick={[Function]}
+    >
+      About
+    </a>
+      | 
+     
+  </div>
+</div>
+`;
